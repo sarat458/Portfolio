@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Sarat Kumar Kaniti",
+    "occupation": "Software Engineering Graduate Student at San Jose State University",
+    "description": "Software Engineer",
+    "image": "profilepic.jpg",
+    "bio": "I am Sarat Kumar Kaniti, experienced software engineer with 5 years of Industry experience in building scalable web applications using Java spring boot, React js, Node js and MySQL. Currently, I'm a masters student in Computer Software Engineering at San Jose State University. I'm looking for Summer 2022 Internship oppurtunities in Software Development and Software Engineering. My Intrests are in Full Stack web application, Back-end engineering and Micorservices.",
+    "email": "saratkumar.kaniti@sjsu.edu",
+    "phone": "+1 6692120206",
+    "address": {
+      "street": "754 The Alameda",
+      "city": "San Jose",
+      "state": "California",
+      "zip": "95126"
+    },
+    "website": "",
+    "resumedownload": "https://github.com/sarat458/Resume_SDE/blob/master/SDE_RESUME.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sarath.kumarkaniti",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sarat-kumar-kaniti-34437197/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sarat_kumar_kaniti/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sarat458/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "San Jose State University",
+        "degree": "Masters in Computer Software Engineering",
+        "graduated": "May 2023",
+        "description": "Data Structures and Algorithms, Operating Systems, DBMS and Enterprise Software Platforms."
+      }
+    ],
+    "education1": [
+      {
+        "school": "GMR Institite of Technology",
+        "degree": "B.Tech in Electronics and Communication Engineering",
+        "graduated": "April 2016",
+        "description": "Introduction to Programming in C, Object Oriented Programming in JAVA & Cloud Computing"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Software Engineer",
+        "years": "July 2016 - July 2021",
+        "description": [
+          "Developed web applications in IVR application team for banking customers using ReactJs and axios to send http requests to backend microservices to facilitate customers with smoother digital banking experience",
+          "Created “user login” and “profile” microservices using spring boot and implemented REST APIs to connect frontend web applications with these microservices and data persistence is achieved with MySQL database.",
+          "Enhanced existing applications with new functionalities as per growing business requirements",
+          "Followed AGILE methodology principles to ease the workflow and increase the transparency of the project development",
+          "Developed an Online Flight management system with ASP.net framework and MySQL as backend database. Functionalities include user authentication and CRUD operations on database."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "JAVA",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Full Stack Development",
+        "level": "95%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Kafka",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CalState Insurance",
+        "category": "",
+        "image": "CalState.jpg",
+        "url": "https://github.com/sarat458/insuranceProjectBackEnd"
+      },
+      {
+        "title": "House Price Prediction Model",
+        "category": "",
+        "image": "House Price.jpg",
+        "url": "https://github.com/sjsucmpe272-fall21/Houseworthers"
+      },
+      {
+        "title": "Uber Eats Clone",
+        "category": "",
+        "image": "Uber_Eats_Logo.jpg",
+        "url": "https://github.com/sarat458/UberEats-Clone"
+      }
+    ]
+  }
+}
